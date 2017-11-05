@@ -1,12 +1,12 @@
 # Basic
-title: 程佳明
+title:  CJM
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: 大道至简
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 电子商务/IT
+url: "http://chengjiaming1991.github.io"
 
 # Comment
 comment:
@@ -15,21 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo:  
+    github: 
     # twitter: 
-    mail: leopardpan@icloud.com
-
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
-
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3   
-    host: auto  
+    mail: 
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
