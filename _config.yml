@@ -2,7 +2,7 @@
 title: taobrother
 SEOTitle: 淘兄弟 | taobrother
 header-img: img/home-bg.jpg
-# email: huxpro@gmail.com
+email: 835365270@qq.com
 description: "数据化淘宝运营"
 keyword: "数据化运营"
 url: "www.taobrother.com"              # your host, for absolute URL
@@ -51,7 +51,7 @@ kramdown:
 #disqus_username: hux
 
 # Netease setttings
-n#etease_comment: false
+#netease_comment: false
 
 
 
